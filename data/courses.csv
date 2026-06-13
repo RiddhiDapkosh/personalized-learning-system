@@ -1,0 +1,8 @@
+course_name,category,level,link
+Intro to Python,Programming,Beginner,https://example.com/python
+Advanced Python,Programming,Advanced,https://example.com/adv-python
+Machine Learning Basics,AI,Beginner,https://example.com/ml
+Deep Learning,AI,Advanced,https://example.com/dl
+Web Development Bootcamp,Web Dev,Beginner,https://example.com/web
+React Advanced,Web Dev,Advanced,https://example.com/react
+Data Science with Python,Data Science,Intermediate,https://example.com/ds
